@@ -1,0 +1,14 @@
+*Created the form with all the controls and tested it
+*started by declaring the field variables and initializing them
+*created the click event for the calculate button 
+*declared the variables needed to hold the the values 
+*assigned the values to the variables from the text boxes and tested that
+*performed the calculations and displayed the results for the group boxes
+*displaed the rest of the lables and did the calculation for the remaining truck capacity 
+*tested for the different remaining capacity, above or below zero and the display of the backColor for the lable
+*created the click event for the clear button and tested it , it worked
+*I was trying to show the program to someone and accidentally did something in the code, I used the undo button, but then the clear button 
+stopped working and I couldnt tell why, so I had to creat a new click event and deleted the old one.It worked .
+* I had forgotten to set the text property of the order count to "", so it displayed the current order count instead of zero, so I thought 
+that reseting the values was not working (I tried setting a breakpoint and ran the code line by line and checked variable values),
+Then I tried entering new data and the reset was fine. 
